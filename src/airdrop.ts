@@ -23,3 +23,6 @@ const connection = new Connection("https://api.devnet.solana.com");
         console.error(`Oops, something went wrong: ${e}`)
     }
 })();
+
+// Success! Check out your TX here:
+//     https://explorer.solana.com/tx/675DzzS7tVcTmqoVig7PzhfkuzqGxzk6HetVLF7Jwfp7ntP8vzUBZxE3Z7szyX7MRNge6rJZUYLCKri1N2y5oYx3?cluster=devnet
